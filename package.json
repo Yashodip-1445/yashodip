@@ -1,0 +1,16 @@
+{
+  "name": "yashodip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run text"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongodb": "^6.5.0",
+    "moongoose": "^0.0.5"
+  }
+}
